@@ -6,7 +6,8 @@ plan, and apply, and launch EC2 instances on AWS.
 
 The repository delves into advanced configurations, exploring providers, variables, outputs, and debugging techniques. 
 You'll master reusable infrastructure using modules, local values, and the Terraform Registry. Collaboration is key, 
-with a focus on Git, sensitive data management, and Terraform backends, such as S3 and DynamoDB, for remote state management.
+with a focus on Git, sensitive data management, and Terraform backends, such as S3 and DynamoDB, for remote state 
+management.
 
 Provisioners, workspaces for managing multiple environments, and advanced security practices using HashiCorp Vault for 
 secret management round out the guide, ensuring a complete understanding of Terraform in DevOps.
