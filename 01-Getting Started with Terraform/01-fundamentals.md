@@ -38,4 +38,4 @@ There are multiple reasons why Terraform is used over the other IaC tools but be
 
 # Terraform Architecture
 
-![Terraform Architecture](/t1.png)
+![Terraform Architecture](images/t1.png)
