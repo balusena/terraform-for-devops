@@ -1,4 +1,7 @@
-# Terraform-for-DevOps:
+# Terraform for DevOps
+
+![Terraform](https://github.com/balusena/terraform-for-devops/blob/main/terraform.png)
+
 Terraform for DevOps is an in-depth guide to mastering infrastructure automation with Terraform, tailored for DevOps 
 professionals. It starts with the basics, introducing Terraform, Infrastructure as Code (IaC), and guiding users through
 installation and AWS setup. You’ll learn how to write your first Terraform code, understand lifecycle commands like init,
