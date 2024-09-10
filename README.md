@@ -1,4 +1,4 @@
-# Terraform for DevOps
+# Terraform For DevOps
 
 ![Terraform](https://github.com/balusena/terraform-for-devops/blob/main/terraform.png)
 
